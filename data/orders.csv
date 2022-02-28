@@ -1,0 +1,4 @@
+order_id,customer_name,customer_address,customer_phone,courier,status,items
+1,Scott Pilgrim,Somewhere,666,Neil,Waiting for courier,None
+2,Victor,445 sdfsdf,54545454,Jimmy,Preparing,"Coca-Cola, Americano, Capucchino, Coca-Cola, Coca-Cola"
+3,Michael,21232ss Made up st,0777666,Jimmy,Waiting for courier,"Capucchino, Coca-Cola, Latte"
